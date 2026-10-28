@@ -1,2 +1,6 @@
-# iinfo-support
-iInfo-个人资料库：隐私政策与使用支持
+# iInfo-个人资料库
+
+公开使用支持与隐私政策。此仓库仅包含静态网页和产品图标。
+
+- [使用支持](support.html)
+- [隐私政策](privacy.html)
